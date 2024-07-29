@@ -9,7 +9,7 @@ By leveraging cutting-edge transformer architectures, we strive to enhance the a
 | Class - TY A   |         Class - TY A |      Class - TY A |Class - TY A |
 | Roll No. - 44   |       Roll No. - 49  |     Roll No. - 50  | Roll No. - 56   |
 
-### College - D.Y.Patil College of Engineering & Technology
+### College - D.Y.Patil College of Engineering & Technology Kolhapur
 
-### PROJECT TITTLE - Transformer_Based_Recommendations_System
+### PROJECT TITLE - Transformer_Based_Recommendations_System
 
