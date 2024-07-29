@@ -11,5 +11,5 @@ By leveraging cutting-edge transformer architectures, we strive to enhance the a
 
 ### College - D.Y.Patil College of Engineering & Technology Kolhapur
 
-### PROJECT TITLE - Transformer_Based_Recommendations_System
+### PROJECT TITLE - Transformer_Based_Recommendation_System
 
